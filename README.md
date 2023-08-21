@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/anthonyplicata/3-column-preview-card)
+- Solution URL: [solution](https://github.com/anthonyplicata/3-column-preview-card)
+- Live Site URL: [Live URL](https://anthonyplicata.github.io/3-column-preview-card/)
 
 ## My process
 I started with a outlining the content using Bootstrap. It was a very quick and easy way for me to get responsive and reliable columns. Then I went through adding the styles to text and backgrounds. I designed the buttons with a nice hover swap of background, color, and added border.
